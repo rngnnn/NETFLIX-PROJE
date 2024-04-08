@@ -1,0 +1,48 @@
+body{
+
+margin: 50px;
+border: 1px solid green;
+
+}
+.container{
+    text-align: center;
+    margin-top: 70px;
+    border: none;
+
+}
+
+.baslik{
+text-align: center;
+border: 0cap;
+
+}
+
+.information{
+ color: rgb(108, 36, 176);
+border: 1px solid red;
+text-align:center;
+margin: 10px;
+
+
+
+}
+.info2{
+
+    border: none;
+}
+
+.info3{
+
+
+    border: none;
+}
+
+.info4{
+border: none;
+
+}
+.info5{
+
+border: none;
+
+}
